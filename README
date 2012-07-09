@@ -1,1 +1,20 @@
-simple bash DNS resolver
+# Resolves DNS names into IP Addresses.
+# Feel free to modify this file as you wish, if you can make it better. I Always Love improvements!
+# By L1nyxL0v3er @ https://0ffff7f000001ipv6literalnet.wordpress.com/
+#
+# basic usage: 
+#   $ ./resolver.sh 
+#   servers.txt
+#   seznam.cz:77.75.72.3
+#   yahoo.com:98.139.183.24
+#   www.backtrack-linux.com:208.68.234.111
+#   www.abclinuxu.cz:82.208.17.55
+#   root.cz:91.213.160.118
+# OR
+#
+# basic usage2:
+#   $ ./resolver.sh group1.txt 
+#   seznam.cz:77.75.76.3
+#   www.abclinuxu.cz:82.208.17.55
+#   
+#

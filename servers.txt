@@ -1,0 +1,6 @@
+# THIS IS TEST FILE FOR bashDNSResolvers from L1nuxL0v3er
+seznam.cz
+yahoo.com
+www.backtrack-linux.com
+www.abclinuxu.cz
+root.cz
